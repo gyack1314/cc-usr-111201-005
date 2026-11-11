@@ -1,0 +1,236 @@
+{
+  "weeks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sites": [
+    "treated",
+    "donor-a",
+    "donor-b",
+    "donor-c"
+  ],
+  "rows": [
+    {
+      "site": "treated",
+      "week": 0,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 1,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 2,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 3,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 4,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 5,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 6,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 7,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 8,
+      "value": 1
+    },
+    {
+      "site": "treated",
+      "week": 9,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 0,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 1,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 2,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 3,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 4,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 5,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 6,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 7,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 8,
+      "value": 1
+    },
+    {
+      "site": "donor-a",
+      "week": 9,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 0,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 1,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 2,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 3,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 4,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 5,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 6,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 7,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 8,
+      "value": 1
+    },
+    {
+      "site": "donor-b",
+      "week": 9,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 0,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 1,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 2,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 3,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 4,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 5,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 6,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 7,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 8,
+      "value": 1
+    },
+    {
+      "site": "donor-c",
+      "week": 9,
+      "value": 1
+    }
+  ],
+  "treated": "treated",
+  "treatment_week": 8,
+  "validation_weeks": 2,
+  "lambdas": [
+    0,
+    0.01,
+    1,
+    10
+  ],
+  "pre_rmspe_max": 3,
+  "solver": {
+    "tolerance": 1e-08,
+    "max_iterations": 20000
+  }
+}
