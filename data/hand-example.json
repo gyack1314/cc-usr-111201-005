@@ -1,0 +1,119 @@
+{
+  "weeks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sites": [
+    "treated",
+    "donor-1",
+    "donor-2"
+  ],
+  "rows": [
+    {
+      "site": "treated",
+      "week": 0,
+      "value": 2
+    },
+    {
+      "site": "treated",
+      "week": 1,
+      "value": 2
+    },
+    {
+      "site": "treated",
+      "week": 2,
+      "value": 2
+    },
+    {
+      "site": "treated",
+      "week": 3,
+      "value": 2
+    },
+    {
+      "site": "treated",
+      "week": 4,
+      "value": 2
+    },
+    {
+      "site": "treated",
+      "week": 5,
+      "value": 2
+    },
+    {
+      "site": "donor-1",
+      "week": 0,
+      "value": 1
+    },
+    {
+      "site": "donor-1",
+      "week": 1,
+      "value": 2
+    },
+    {
+      "site": "donor-1",
+      "week": 2,
+      "value": 3
+    },
+    {
+      "site": "donor-1",
+      "week": 3,
+      "value": 4
+    },
+    {
+      "site": "donor-1",
+      "week": 4,
+      "value": 5
+    },
+    {
+      "site": "donor-1",
+      "week": 5,
+      "value": 6
+    },
+    {
+      "site": "donor-2",
+      "week": 0,
+      "value": 3
+    },
+    {
+      "site": "donor-2",
+      "week": 1,
+      "value": 2
+    },
+    {
+      "site": "donor-2",
+      "week": 2,
+      "value": 1
+    },
+    {
+      "site": "donor-2",
+      "week": 3,
+      "value": 0
+    },
+    {
+      "site": "donor-2",
+      "week": 4,
+      "value": -1
+    },
+    {
+      "site": "donor-2",
+      "week": 5,
+      "value": -2
+    }
+  ],
+  "treated": "treated",
+  "treatment_week": 4,
+  "validation_weeks": 1,
+  "lambdas": [
+    0.0,
+    0.01
+  ],
+  "pre_rmspe_max": 3.0,
+  "solver": {
+    "tolerance": 1e-08,
+    "max_iterations": 20000
+  }
+}
